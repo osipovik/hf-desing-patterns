@@ -1,4 +1,4 @@
-package oik.designpatterns.strategy;
+package oik.designpatterns.strategy.behaviour.quack;
 
 public interface QuackBehaviour {
     public void quack();

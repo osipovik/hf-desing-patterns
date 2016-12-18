@@ -1,4 +1,6 @@
-package oik.designpatterns.strategy;
+package oik.designpatterns.strategy.behaviour.fly.impl;
+
+import oik.designpatterns.strategy.behaviour.fly.FlyBehaviour;
 
 public class FlyWithWings implements FlyBehaviour {
     @Override
