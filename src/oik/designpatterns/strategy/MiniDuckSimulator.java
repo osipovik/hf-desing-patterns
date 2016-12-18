@@ -1,9 +1,9 @@
 package oik.designpatterns.strategy;
 
 import oik.designpatterns.strategy.behaviour.fly.impl.FlyRocketPowered;
-import oik.designpatterns.strategy.duck.Duck;
-import oik.designpatterns.strategy.duck.impl.MallardDuck;
-import oik.designpatterns.strategy.duck.impl.ModelDuck;
+import oik.designpatterns.strategy.models.Duck;
+import oik.designpatterns.strategy.models.impl.MallardDuck;
+import oik.designpatterns.strategy.models.impl.ModelDuck;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {

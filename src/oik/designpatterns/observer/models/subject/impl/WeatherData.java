@@ -1,4 +1,7 @@
-package oik.designpatterns.observer;
+package oik.designpatterns.observer.models.subject.impl;
+
+import oik.designpatterns.observer.models.observer.Observer;
+import oik.designpatterns.observer.models.subject.Subject;
 
 import java.util.ArrayList;
 import java.util.List;

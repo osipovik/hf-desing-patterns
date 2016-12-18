@@ -1,4 +1,4 @@
-package oik.designpatterns.strategy.duck;
+package oik.designpatterns.strategy.models;
 
 import oik.designpatterns.strategy.behaviour.fly.FlyBehaviour;
 import oik.designpatterns.strategy.behaviour.quack.QuackBehaviour;

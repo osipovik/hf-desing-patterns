@@ -1,4 +1,8 @@
-package oik.designpatterns.observer;
+package oik.designpatterns.observer.models.observer.impl;
+
+import oik.designpatterns.observer.models.DisplayElement;
+import oik.designpatterns.observer.models.observer.Observer;
+import oik.designpatterns.observer.models.subject.Subject;
 
 public class CurrentConditionsDisplay implements Observer, DisplayElement {
     private Subject weatherData;

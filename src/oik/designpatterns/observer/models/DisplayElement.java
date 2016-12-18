@@ -1,4 +1,4 @@
-package oik.designpatterns.observer;
+package oik.designpatterns.observer.models;
 
 public interface DisplayElement {
     public void display();

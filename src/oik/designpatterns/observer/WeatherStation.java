@@ -1,5 +1,10 @@
 package oik.designpatterns.observer;
 
+import oik.designpatterns.observer.models.observer.impl.CurrentConditionsDisplay;
+import oik.designpatterns.observer.models.observer.impl.ForecastDisplay;
+import oik.designpatterns.observer.models.observer.impl.StatisticDisplay;
+import oik.designpatterns.observer.models.subject.impl.WeatherData;
+
 public class WeatherStation {
     public static void main(String[] args) {
         WeatherData weatherData = new WeatherData();

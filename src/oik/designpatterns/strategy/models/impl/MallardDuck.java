@@ -1,8 +1,8 @@
-package oik.designpatterns.strategy.duck.impl;
+package oik.designpatterns.strategy.models.impl;
 
 import oik.designpatterns.strategy.behaviour.fly.impl.FlyWithWings;
 import oik.designpatterns.strategy.behaviour.quack.impl.Quack;
-import oik.designpatterns.strategy.duck.Duck;
+import oik.designpatterns.strategy.models.Duck;
 
 public class MallardDuck extends Duck {
     public MallardDuck() {
@@ -12,6 +12,6 @@ public class MallardDuck extends Duck {
 
     @Override
     public void display() {
-        System.out.println("I'm a real Mallard duck");
+        System.out.println("I'm a real Mallard models");
     }
 }
