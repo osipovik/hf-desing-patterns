@@ -12,7 +12,7 @@ import static org.junit.Assert.*;
 
 public class BeverageTest {
     @Test
-    public void DarkRoastWithMochaAndWhip() {
+    public void beverageTest() {
         /*Simple Dark Roast*/
         Beverage beverage = new DarkRoast();
 
