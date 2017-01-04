@@ -1,8 +1,8 @@
-package main.java.oik.designpatterns.observer.models.observer.impl;
+package oik.designpatterns.observer.models.observer.impl;
 
-import main.java.oik.designpatterns.observer.models.DisplayElement;
-import main.java.oik.designpatterns.observer.models.observer.Observer;
-import main.java.oik.designpatterns.observer.models.subject.Subject;
+import oik.designpatterns.observer.models.DisplayElement;
+import oik.designpatterns.observer.models.observer.Observer;
+import oik.designpatterns.observer.models.subject.Subject;
 
 import java.util.ArrayList;
 import java.util.Comparator;

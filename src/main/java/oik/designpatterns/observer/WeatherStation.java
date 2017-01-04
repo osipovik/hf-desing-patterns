@@ -1,10 +1,10 @@
-package main.java.oik.designpatterns.observer;
+package oik.designpatterns.observer;
 
-import main.java.oik.designpatterns.observer.models.observer.impl.CurrentConditionsDisplay;
-import main.java.oik.designpatterns.observer.models.observer.impl.ForecastDisplay;
-import main.java.oik.designpatterns.observer.models.observer.impl.HeatIndexDisplay;
-import main.java.oik.designpatterns.observer.models.observer.impl.StatisticDisplay;
-import main.java.oik.designpatterns.observer.models.subject.impl.WeatherData;
+import oik.designpatterns.observer.models.observer.impl.CurrentConditionsDisplay;
+import oik.designpatterns.observer.models.observer.impl.ForecastDisplay;
+import oik.designpatterns.observer.models.observer.impl.HeatIndexDisplay;
+import oik.designpatterns.observer.models.observer.impl.StatisticDisplay;
+import oik.designpatterns.observer.models.subject.impl.WeatherData;
 
 public class WeatherStation {
     public static void main(String[] args) {

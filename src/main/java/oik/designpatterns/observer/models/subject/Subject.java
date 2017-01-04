@@ -1,6 +1,6 @@
-package main.java.oik.designpatterns.observer.models.subject;
+package oik.designpatterns.observer.models.subject;
 
-import main.java.oik.designpatterns.observer.models.observer.Observer;
+import oik.designpatterns.observer.models.observer.Observer;
 
 public interface Subject {
     public void registerObserver(Observer observer);
