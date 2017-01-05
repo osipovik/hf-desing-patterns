@@ -4,7 +4,7 @@ import oik.designpatterns.factory.Pizza;
 
 public class ChicagoStyleCheesePizza extends Pizza {
     public ChicagoStyleCheesePizza() {
-        name = "Chicago style sauce and cheese pizza";
+        name = "Chicago style deep dish cheese pizza";
         dough = "Extra Thick crust dough";
         sauce = "Plum tomato sauce";
 
