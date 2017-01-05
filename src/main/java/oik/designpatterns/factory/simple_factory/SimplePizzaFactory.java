@@ -1,5 +1,6 @@
 package oik.designpatterns.factory.simple_factory;
 
+import oik.designpatterns.factory.Pizza;
 import oik.designpatterns.factory.simple_factory.pizza.CheesePizza;
 import oik.designpatterns.factory.simple_factory.pizza.ClamPizza;
 import oik.designpatterns.factory.simple_factory.pizza.PepperoniPizza;

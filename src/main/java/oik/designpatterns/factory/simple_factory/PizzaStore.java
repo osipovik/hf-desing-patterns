@@ -1,5 +1,8 @@
 package oik.designpatterns.factory.simple_factory;
 
+import oik.designpatterns.factory.Pizza;
+
+@SuppressWarnings("Duplicates")
 public class PizzaStore {
     SimplePizzaFactory factory;
 
