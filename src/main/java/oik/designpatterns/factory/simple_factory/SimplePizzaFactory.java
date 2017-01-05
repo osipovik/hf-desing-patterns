@@ -1,5 +1,10 @@
 package oik.designpatterns.factory.simple_factory;
 
+import oik.designpatterns.factory.simple_factory.pizza.CheesePizza;
+import oik.designpatterns.factory.simple_factory.pizza.ClamPizza;
+import oik.designpatterns.factory.simple_factory.pizza.PepperoniPizza;
+import oik.designpatterns.factory.simple_factory.pizza.VeggiePizza;
+
 public class SimplePizzaFactory {
     public Pizza createPizza(String type) {
         Pizza pizza = null;
