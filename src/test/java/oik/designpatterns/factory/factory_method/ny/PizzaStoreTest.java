@@ -7,6 +7,9 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
+/**
+ * Test for factory method example
+ */
 public class PizzaStoreTest {
 
     @Test
